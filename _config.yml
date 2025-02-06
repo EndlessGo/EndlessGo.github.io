@@ -106,4 +106,4 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/EndlessGo/EndlessGo.github.io
-  branch: main
+  branch: deploy
