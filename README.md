@@ -8,7 +8,7 @@
 - `themes/`: 存放博客主题相关的文件
 - `scaffolds/`: 存放文章、页面和草稿的模板文件
 - `public/`: 是hexo generate构建输出目录，包含生成的静态网站文件，可以直接把这个目录下的文件部署到任何静态网站服务器上
-- `.deploy_git/`: 专门用于 GitHub Pages 部署的 Git 仓库目录
+- `.deploy_git/`: 存在本地，hexo deploy部署时，会自动将生成的静态文件推送到 GitHub Pages 部署的 Git 仓库的分支
 - `.git/`: Git 版本控制目录
 - `.github/`: GitHub 相关配置文件目录
 - `node_modules/`: Node.js 依赖包目录
