@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Programming In Bug
-subtitle: '编程之路'
-description: '分享编程经验与心得'
+title: WonderChao's Blog
+subtitle: '攀登之路'
+description: '分享一些领域的经验与心得'
 keywords:
-author: EndlessGo
+author: WonderChao
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
