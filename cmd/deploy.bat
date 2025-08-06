@@ -1,1 +1,2 @@
-hexo generate && hexo deploy
+hexo g -d
+REM hexo generate && hexo deploy
